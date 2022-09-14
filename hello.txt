@@ -1,1 +1,3 @@
 hello git
+
+welcome to 2nd lect.
